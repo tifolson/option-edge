@@ -1,0 +1,10 @@
+pandas
+numpy
+alpaca_py
+datetime
+asyncio
+time
+winsound
+apscheduler
+tables
+
